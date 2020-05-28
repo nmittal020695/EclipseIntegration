@@ -6,6 +6,7 @@ public class demo {
 		System.out.println("hello");
 		System.out.println("java");
 		System.out.println("World");
+		System.out.println("php");
 
 	}
 
