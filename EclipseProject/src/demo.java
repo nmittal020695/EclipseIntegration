@@ -7,6 +7,7 @@ public class demo {
 		System.out.println("java");
 		System.out.println("World");
 		System.out.println("php");
+		System.out.println("maven");
 
 	}
 
